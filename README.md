@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 Jazz music is one of the few global styles of music that developed in the United States of America.  As an amateur jazz musician, I have an interest in seeing jazz music continue to thrive in the U.S.  Unfortunately, most statistics seem to show that consumption of jazz music is decreasing over time.
 
 Something that particularly interests me is the businesses that continue to host live jazz music today.  Where can one go to hear live jazz music?  What are the unique characteristics of these businesses?  How does the jazz scene vary from city to city?
